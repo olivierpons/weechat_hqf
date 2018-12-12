@@ -2,7 +2,9 @@
 Weechat plugin to ease life of the current user
 
 Homepage: https://github.com/olivierpons/weechat_hqf/
+
 Description: Sends quickly different states of current user.
+
 License: MIT (see below)
  
 Copyright (c) 2019 by Olivier Pons <olivier.pons@gmail.com>
